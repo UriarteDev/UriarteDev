@@ -47,7 +47,6 @@ App móvil integrada con una API REST personalizada para operaciones CRUD.
 
 - 📧 uriarteDev@gmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/joeuriarte)  
-- 🔗 [CV actualizado (sube tu archivo o compártelo desde Drive)]
 
 ---
 
